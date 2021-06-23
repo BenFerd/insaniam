@@ -1,0 +1,13 @@
+uuid: 287dee4f-9fa4-4293-b4f3-57e4bdce9b1d
+langcode: fr
+status: true
+dependencies:
+  module:
+    - path_alias
+_core:
+  default_config_hash: dhjFABRzm52DkRXnYja5ZoHwjY0R3gEGic3KpDUXgRo
+id: path_alias.path_alias
+target_entity_type_id: path_alias
+target_bundle: path_alias
+default_langcode: und
+language_alterable: true

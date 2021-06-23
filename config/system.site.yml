@@ -1,0 +1,14 @@
+uuid: 19741065-c643-4789-b327-df19d5b072be
+name: Insaniam
+mail: ben.crommen@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
