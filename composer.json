@@ -22,6 +22,9 @@
         "drupal/core-recommended": "^9.2",
         "drupal/metatag": "^1.16",
         "drupal/pathauto": "^1.8",
+        "drupal/recipe": "^2.0",
+        "drupal/vani": "^8.1",
+        "drupal/zurb_foundation": "^6.0@alpha",
         "drush/drush": "^10.5"
     },
     "conflict": {

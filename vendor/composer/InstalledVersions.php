@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '748fbf6dec38706c07e1128feabd1481ae493848',
+    'reference' => '08cb8c3ee6531724cb1d0a74c818c65c2f20a1c5',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -695,6 +695,15 @@ private static $installed = array (
         0 => '9.2.0',
       ),
     ),
+    'drupal/ingredient' => 
+    array (
+      'pretty_version' => '2.0.0',
+      'version' => '2.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => NULL,
+    ),
     'drupal/inline_form_errors' => 
     array (
       'replaced' => 
@@ -881,6 +890,15 @@ private static $installed = array (
         0 => '9.2.0',
       ),
     ),
+    'drupal/recipe' => 
+    array (
+      'pretty_version' => '2.0.0',
+      'version' => '2.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.0',
+    ),
     'drupal/recommended-project' => 
     array (
       'pretty_version' => 'dev-develop',
@@ -888,7 +906,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '748fbf6dec38706c07e1128feabd1481ae493848',
+      'reference' => '08cb8c3ee6531724cb1d0a74c818c65c2f20a1c5',
     ),
     'drupal/responsive_image' => 
     array (
@@ -1039,6 +1057,15 @@ private static $installed = array (
         0 => '9.2.0',
       ),
     ),
+    'drupal/vani' => 
+    array (
+      'pretty_version' => '8.1.3',
+      'version' => '8.1.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.1.3',
+    ),
     'drupal/views' => 
     array (
       'replaced' => 
@@ -1066,6 +1093,15 @@ private static $installed = array (
       array (
         0 => '9.2.0',
       ),
+    ),
+    'drupal/zurb_foundation' => 
+    array (
+      'pretty_version' => '6.0.0-alpha6',
+      'version' => '6.0.0.0-alpha6',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-6.0-alpha6',
     ),
     'drush/drush' => 
     array (

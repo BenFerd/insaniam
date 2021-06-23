@@ -1,0 +1,17 @@
+name: Insaniam
+type: theme
+core_version_requirement: ^8 || ^9
+description: A theme that make you hungry
+base theme: classy
+
+
+regions:
+  header: 'Top Bar'
+  navigation: 'Navigation'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
